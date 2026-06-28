@@ -10,7 +10,7 @@ pip install customtkinter
 
 ### Step 2 — Run the app
 ```
-python unit_converter_gui.py
+python unit_converter.py
 ```
 
 ## ✨ Features
