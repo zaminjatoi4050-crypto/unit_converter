@@ -1,5 +1,4 @@
 # 🔄 Unit Converter Pro — Python GUI
-### Ultra Pro Max Edition | by Jatoi
 
 ## ▶️ How to Run
 
@@ -10,7 +9,7 @@ pip install customtkinter
 
 ### Step 2 — Run the app
 ```
-python unit_converter.py
+python Unit_Converter.py
 ```
 
 ## ✨ Features
@@ -25,4 +24,4 @@ python unit_converter.py
 - 🌙 Dark Pro UI
 
 ## 👨‍💻 Author
-Jatoi — MUET Software Engineering
+Engineer — MUET Software Engineering
